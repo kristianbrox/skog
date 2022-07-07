@@ -12,7 +12,7 @@ _Deeper explanation of ideas may be found below the list_
 - [ ] Traps
 
 ### Name of the game
-_The game should have a name! "Skog", is working title_
+_The game should have a name! "Skog", is working title. Or maybe uncapitalized "skog", to capture the informal aspect of walking in the woods, and interacting with nature._
 
 ### Logo for the game
 The game should have a logo. Maybe a tree, or several trees because the name is "Skog"?
