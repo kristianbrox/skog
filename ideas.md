@@ -10,6 +10,7 @@ _Deeper explanation of ideas may be found below the list_
 - [ ] Fishing
 - [ ] Harvesting
 - [ ] Traps
+- [ ] SSX-like jumping
 
 ### Name of the game
 _The game should have a name! "Skog", is working title. Or maybe uncapitalized "skog", to capture the informal aspect of walking in the woods, and interacting with nature._
@@ -34,3 +35,6 @@ It should be possible to harvest edible, and poisenous, plants and mushrooms. To
 
 ### Traps
 The charactar could set up traps to capture various animals, including the character itself.
+
+### SSX-like jumping
+Normal mario-like 2D games has a jumping function where you jump higher when holding the jump button, and a short press results in shorter air time. For this type of game it could be interesting to test out something similar the jumping in SSX, where you have to hold the jump button to charge before doing the jump. This would change the game dynamic a bit compared to 2D platforms similar to "skog". It would also be more true to nature.
