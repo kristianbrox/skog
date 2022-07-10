@@ -22,6 +22,10 @@ func calculate_move_velocity(
 	var out := linear_velocity
 	out.x = speed.x*direction.x
 	out.y += gravity*get_physics_process_delta_time()
+	if out.x < 0:
+		get_node( "Player" ).set_flip_h( true )
+	elif out.x > 0:
+		get_node( "Player" ).set_flip_h( false )
 	if direction.y == -1.0:
 		out.y = speed.y*direction.y
 	if is_jump_interrupted:
