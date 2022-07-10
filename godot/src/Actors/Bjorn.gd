@@ -1,4 +1,4 @@
-extends "res://src/Actors/Actor.gd"
+extends Actor
 
 var Direction = "Left"
 func ChangeDirection():
